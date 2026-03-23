@@ -1,7 +1,7 @@
 # LeetCode Solutions 
 
 ## About
-This repository contains my solutions to LeetCode problems using Java.
+This repository contains my solutions to LeetCode problems.
 
 ## Stats
 - Total Problems Solved: 50+
